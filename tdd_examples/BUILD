@@ -12,3 +12,9 @@ py_test(
     srcs = ["checkout_test_with_pytest.py"],
     deps = [requirement("pytest")],
 )
+
+py_test(
+    name = "line_reader_test_with_pytest",
+    srcs = ["line_reader_test_with_pytest.py"],
+    deps = [requirement("pytest")],
+)
