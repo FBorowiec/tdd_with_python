@@ -6,3 +6,9 @@ py_test(
     srcs = ["fizzbuzz_with_pytest.py"],
     deps = [requirement("pytest")],
 )
+
+py_test(
+    name = "checkout_test_with_pytest",
+    srcs = ["checkout_test_with_pytest.py"],
+    deps = [requirement("pytest")],
+)

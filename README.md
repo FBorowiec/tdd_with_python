@@ -3,6 +3,9 @@
 *"Deleted code is debugged code"* - **J.Sickel**
 
 This is the repository where I keep all the relevant information about Test Driven Development with Python.
+For more information about Test Driven Development visit:
+
+[FBorowiec/tdd_with_gtest](https://github.com/FBorowiec/tdd_with_gtest)
 
 ## **Motivation**
 
