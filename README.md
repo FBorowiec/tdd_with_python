@@ -1,4 +1,4 @@
-# TDD with GoogleTest
+# TDD with PyTest
 
 *"Deleted code is debugged code"* - **J.Sickel**
 
